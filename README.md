@@ -15,4 +15,3 @@ Currently obsessed with Computer Vision and Data Science<br>
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ferhatcelebi&icon=0&color=0)](https://visitcount.itsvg.in)
