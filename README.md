@@ -2,10 +2,14 @@
 ferhatcelebi/ferhatcelebi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-# 💫 About Me:
+Hi there 🙋‍♂️
+---
+# 🖋️ About Me:
 Process automation experience, software development, machine learning
 
+I am enthusiastic about learning new tecnnologies as a programmer. Recently, I have learned Data Science tools which are Numpy, Pandas, Matplotlib, Scikit-learn and PyTorch.
+
+Outside the dev world, I like spending time on crossfit, body-building, playing football, and learning to play instruments like electric guitar and piano. Besides, I like reading self-improvement books. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ferhatcelebi/) 
